@@ -1,4 +1,4 @@
-# Attendance
+# Attendance Desktop Application
 
 ### Overview
 Developed a Desktop Application for employees where they can view/apply or manage leaves and the company can monitor the data in two different ways.
